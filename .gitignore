@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Python package build artifacts
+*.egg-info/
+__pycache__/
+dist/
+.pytest_cache/
